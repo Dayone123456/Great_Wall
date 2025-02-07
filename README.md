@@ -1,2 +1,3 @@
 # Great_Wall
-do someting great and interesting
+Do someting great and interesting
+Code Now, Passion!!!!!!
